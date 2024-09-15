@@ -150,7 +150,21 @@ layout: default
   <div class="container">
     <div class="donate-inner">
       <h2 class="title text-center">Donate</h2>
-      <div style="margin-top: 100px;"><link href="https://plugin.whydonate.com/wdplugin-style.css" rel="stylesheet" type="text/css"><div id="share-widget-trexo-robotics-for-martyn" class="share-widget" data-slug="trexo-robotics-for-martyn" data-lang="en" data-success_url="" data-fail_url="" data-card="show" data-form_mode="donation-form+widget"></div><script src="https://plugin.whydonate.com/wp_styling.js" type="text/javascript"></script></div>
+      <div class="info">
+  <p><strong>Become a donor today.</strong><br>As a small grassroots organization, know that every dollar will have an immense impact on our ability to continue working towards our mission.</p>
+  
+  <div class="donorbox text-center" style="margin-top: 100px;">
+    <link href="https://plugin.whydonate.com/wdplugin-style.css" rel="stylesheet" type="text/css">
+    <div id="share-widget-trexo-robotics-for-martyn" class="share-widget" data-slug="trexo-robotics-for-martyn" data-lang="en" data-success_url="" data-fail_url="" data-card="show" data-form_mode="donation-form+widget"></div>
+    <script src="https://plugin.whydonate.com/wp_styling.js" type="text/javascript"></script>
+  </div>
+
+  {% if site.is_501c3 == true %}
+    <p>Contributions are tax deductible to the extent permitted by law.<br>{{ site.org_name }} is a 501(c)(3) organization.</p>
+  {% elsif site.fiscal_sponsor_name %}
+    <p>{{ site.org_name }} is fiscally sponsored by {{ site.fiscal_sponsor_name }}, a 501 (c)(3) tax exempt non-profit organization.</p>
+  {% endif %}
+</div>
       <!--//info-->
       <div class="cta-container">
         <div class="speech-bubble">
