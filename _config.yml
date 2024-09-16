@@ -8,36 +8,31 @@
 org_name_header: Fundraising on Trexo Robotics for Martyn
 org_name: Trexo Robotics for Martyn
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  Fundraising web page with all information.
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Hello, friends.
-
-  We are raising funds for a unique project to acquire a Trexo Robotics exoskeleton (https://www.trexorobotics.com/) for our son Martin. This innovative solution is needed to help him learn to walk.
-
-  Background.
-
-  We had twins, Martin and Matviy. The babies were born prematurely, so they faced some health challenges. From an early age, we started physical therapy with them in Ukraine to help them develop their skills. Later, we found a good center in Warsaw, moved there, and for over half a year now, they have been undergoing daily rehabilitation there. They are gradually moving towards the goal of walking and running.
-
-  Matviy can already walk on his own with a walker, while Martin still needs the help of physical therapists. However, this is not enough compared to what it should be. In search of solutions, we found Trexo Robotics. In the world of rehabilitation, it is called a “game changer.” It will give Martin the opportunity to learn to walk independently and anywhere.
-
-  It is sold in Canada, and the price for everything is about $40,000.
+  <p>Hello, friends.
+  <p>We are raising funds for a unique project to acquire a Trexo Robotics exoskeleton (https://www.trexorobotics.com/) for our son Martin. This innovative solution is needed to help him learn to walk.
+  <p><b>Background.</b>
+  <p>We had twins, Martin and Matviy. The babies were born prematurely, so they faced some health challenges. From an early age, we started physical therapy with them in Ukraine to help them develop their skills. Later, we found a good center in Warsaw, moved there, and for over half a year now, they have been undergoing daily rehabilitation there. They are gradually moving towards the goal of walking and running.
+  <p>Matviy can already walk on his own with a walker, while Martin still needs the help of physical therapists. However, this is not enough compared to what it should be. In search of solutions, we found Trexo Robotics. In the world of rehabilitation, it is called a “game changer.” It will give Martin the opportunity to learn to walk independently and anywhere.
+  <p>It is sold in Canada, and the price for everything is about $40,000.
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_general_email_inbox: mykola.veremeichyk@gmail.com
+org_street_address:  #Please include suite number on the line below
+org_address_suite:
+org_city: Warszawa
+org_state:
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
   94103
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   (123) 456-7890
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
-org_instagram_username:
+org_twitter_username:
+org_facebook_username: mykola.veremeichyk
+org_instagram_username: m.veremeichyk
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
