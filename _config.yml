@@ -8,7 +8,7 @@
 org_name_header: Fundraising on Trexo Robotics for Martyn
 org_name: Trexo Robotics for Martyn
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  Funded 45%
+  Funded 75%
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
   <p>Hello, friends.
   <p>We are raising funds for a unique project to acquire a Trexo Robotics exoskeleton (https://www.trexorobotics.com/) for our son Martin. This innovative solution is needed to help him learn to walk.
@@ -25,9 +25,7 @@ org_address_suite:
 org_city: Warszawa
 org_state:
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
 
 #SOCIAL MEDIA
 org_twitter_username:
